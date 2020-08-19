@@ -143,7 +143,7 @@ footer{
 }
 /* ----------- Non-Retina Screens ----------- */
 @media screen 
-  and (max-width: 600px){ 
+  and (max-width: 550px){ 
     .main-nav{
         font-size: 0.5em;
         padding: 0;
